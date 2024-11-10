@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "147725586078",
+    "project_id": "car-connect-yiawf0",
+    "storage_bucket": "car-connect-yiawf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147725586078:android:041a9a82f7a5ddc4fe758f",
+        "android_client_info": {
+          "package_name": "com.mycompany.carconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147725586078-3avmi9dlp7lb6k38f0agci00a205bidg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5mL571bmQbR8w3--1vyc0-yxe66N_v94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147725586078-3avmi9dlp7lb6k38f0agci00a205bidg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147725586078-ji8unmklmhnqqlsonk9ap4gjuvgmrh17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.carconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
